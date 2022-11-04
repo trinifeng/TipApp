@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="enter_cost">Enter Cost</string>
+    <string name="calculate">Calculate</string>
+    <string name="final_tip">Final Tip</string>
+
+    <string-array name="percent_dropdown">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+</resources>
